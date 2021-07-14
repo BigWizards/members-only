@@ -34,6 +34,9 @@ gem "bulma-rails", "~> 0.9.1"
 # FontAwesome for icons
 gem "font-awesome-rails"
 
+# Simple Form to replace the default and make it easier
+gem 'simple_form'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 
